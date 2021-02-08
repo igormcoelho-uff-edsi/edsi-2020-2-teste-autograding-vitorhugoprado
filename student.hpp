@@ -13,7 +13,8 @@ int mul(int a, int b);
 
 int add(int a, int b)
 {
-   a=a+b;
+   int soma;
+   soma=a+b;
    return 0; // TODO: fix
 }
 
